@@ -1,0 +1,14 @@
+C:\Users\isard\source\repos\threading\threading\bin\Debug\net9.0\threading.exe
+C:\Users\isard\source\repos\threading\threading\bin\Debug\net9.0\threading.deps.json
+C:\Users\isard\source\repos\threading\threading\bin\Debug\net9.0\threading.runtimeconfig.json
+C:\Users\isard\source\repos\threading\threading\bin\Debug\net9.0\threading.dll
+C:\Users\isard\source\repos\threading\threading\bin\Debug\net9.0\threading.pdb
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\threading.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\threading.AssemblyInfo.cs
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\threading.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\threading.dll
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\refint\threading.dll
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\threading.pdb
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\threading.genruntimeconfig.cache
+C:\Users\isard\source\repos\threading\threading\obj\Debug\net9.0\ref\threading.dll

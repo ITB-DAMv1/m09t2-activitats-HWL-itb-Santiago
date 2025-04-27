@@ -4,9 +4,9 @@
 |-------------------|-------------------------------------------------------------|---------------------------------------------------------|
 | **Process**       | `Id`, `ProcessName`, `StartTime`, `TotalProcessorTime`       | `Start()`, `Kill()`, `GetProcesses()`, `GetProcessById()` |
 | **ProcessStartInfo** | `FileName`, `Arguments`, `UseShellExecute`                |                                                     |
-| **Stopwatch**     | N/A                                                         | `Start()`, `Stop()`, `ElapsedMilliseconds`, `Reset()`    |
+| **Stopwatch**     |                                                          | `Start()`, `Stop()`, `ElapsedMilliseconds`, `Reset()`    |
 | **EventLog**      | `Log`, `Entries`                                            | `WriteEntry()`, `Clear()`                               |
-| **Debug**         | N/A                                                         | `WriteLine()`, `Assert()`                               |
+| **Debug**         |                                                          | `WriteLine()`, `Assert()`                               |
 
 ## Descripción de las Clases y Métodos
 
@@ -26,7 +26,7 @@ La clase `Stopwatch` permite medir el tiempo de ejecución de bloques de código
 La clase `Debug` se usa para realizar tareas de depuración, como escribir mensajes en la ventana de depuración de Visual Studio o verificar condiciones con `Assert`.
 
 
-##Informacion sobre navegadores y sus procesos - hilos
+## Informacion sobre navegadores y sus procesos - hilos
 Cuando abres más de una pestaña, se pueden abrir nuevos hilos dentro del mismo proceso, pero no se abren nuevos procesos (por lo general). Cada hilo se encarga de tareas o pestañas específicas, y el sistema operativo administra estos hilos dentro de un solo proceso de navegador.
 
 ## Comparativa entre `Thread` y `Task` en C#
